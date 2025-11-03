@@ -1,0 +1,5 @@
+{
+    "BIKE": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-4/official-comments/bike-round4-official-comment.pdf",
+    "Classic McEliece": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-4/official-comments/classic-mceliece-round4-official-comment.pdf",
+    "HQC": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-4/official-comments/hqc-round4-official-comment.pdf"
+}
