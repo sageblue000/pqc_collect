@@ -1,0 +1,1 @@
+This folder contains the modifications we applied compared to our 2nd round submission (Modifications.pdf) as well as the supporting documentation of Rainbow (Rainbow3round.pdf).

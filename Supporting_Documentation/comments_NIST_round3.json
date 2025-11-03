@@ -1,0 +1,15 @@
+{
+    "Classic_McEliece_merger_of_Classic_McElieceand_NTS-KEM": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/Classic-McEliece-round3-official-comment.pdf",
+    "CRYSTALS-KYBER": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/CRYSTALS-KYBER-round3-official-comment.pdf",
+    "NTRU": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/NTRU-round3-official-comment.pdf",
+    "SABER": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/SABER-round3-official-comment.pdf",
+    "CRYSTALS-DILITHIUM": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/CRYSTALS-DILITHIUM-round3-official-comment.pdf",
+    "FALCON": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/FALCON-round3-official-comment.pdf",
+    "Rainbow": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/RAINBOW-round3-official-comment.pdf",
+    "FrodoKEM": "https://csrc.nist.gov/CSRC/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/FrodoKEM-round3-official-comment.pdf",
+    "HQC": "https://csrc.nist.gov/CSRC/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/HQC-round3-official-comment.pdf",
+    "NTRU_Prime": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/NTRU-Prime-round3-official-comment.pdf",
+    "SIKE": "https://csrc.nist.gov/CSRC/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/SIKE-round3-official-comment.pdf",
+    "Picnic": "https://csrc.nist.gov/CSRC/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/PICNIC-round3-official-comment.pdf",
+    "SPHINCS_": "https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/round-3/official-comments/Sphincs-Plus-round3-official-comment.pdf"
+}
